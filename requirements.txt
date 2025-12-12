@@ -8,5 +8,6 @@ pypdf
 python-dotenv
 streamlit
 tavily-python
+langsmith
 
 #langchain langchain-openai langchain-community chromadb pypdf python-dotenv streamlit faiss-cpu

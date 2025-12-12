@@ -192,6 +192,7 @@ st.write(
 )
 
 # Optional: allow user to upload additional text docs to augment RAG KB
+st.sidebar.markdown("### 🛠️ [View Traces in LangSmith](https://smith.langchain.com/)")
 st.sidebar.header("Knowledge Base")
 uploaded = st.sidebar.file_uploader("Upload .txt files to add to KB (optional)", accept_multiple_files=True, type=["txt"])
 sample_docs = [

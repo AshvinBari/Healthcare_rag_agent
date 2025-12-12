@@ -25,7 +25,7 @@ Built with [Streamlit](https://streamlit.io/), [LangChain](https://python.langch
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AshvinBari/Healthcare_rag_agent.git
 cd Healthcare_rag_agent
 ```
 

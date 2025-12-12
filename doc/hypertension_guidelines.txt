@@ -1,0 +1,28 @@
+# Hypertension Guidelines – Basic Overview
+
+1. Definition:
+Hypertension is defined as persistent blood pressure above 140/90 mmHg.
+
+2. Symptoms:
+- Headache
+- Chest pain
+- Dizziness
+- Vision problems
+
+3. Diagnosis:
+- At least 2 elevated readings on different days
+- Ambulatory BP monitoring recommended
+
+4. Treatment:
+- Lifestyle modifications: salt reduction, exercise, weight loss
+- Medications:
+  - ACE inhibitors
+  - ARBs
+  - Calcium channel blockers
+  - Diuretics
+
+5. Emergency Signs:
+- Severe headache
+- Shortness of breath
+- Chest pain
+- BP above 180/120 mmHg

@@ -1,0 +1,28 @@
+# Diabetes Type 2 – Basic Clinical Guidelines
+
+1. Definition:
+Type 2 Diabetes is a metabolic disorder characterized by insulin resistance and impaired insulin secretion.
+
+2. Symptoms:
+- Frequent urination
+- Increased thirst
+- Fatigue
+- Slow wound healing
+- Blurred vision
+
+3. Diagnosis Criteria:
+- Fasting glucose ≥ 126 mg/dL
+- HbA1c ≥ 6.5%
+- 2-hour OGTT ≥ 200 mg/dL
+
+4. Treatment:
+- Lifestyle changes (diet, exercise)
+- First-line medication: Metformin
+- Additional therapies: GLP-1 agonists, SGLT2 inhibitors
+- Insulin therapy for uncontrolled cases
+
+5. Complications:
+- Neuropathy
+- Retinopathy
+- Cardiovascular disease
+- Kidney failure

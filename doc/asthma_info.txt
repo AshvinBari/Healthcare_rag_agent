@@ -1,0 +1,28 @@
+# Asthma — Basic Medical Information
+
+1. Definition:
+Asthma is a chronic inflammatory airway disease causing episodic airflow obstruction.
+
+2. Common Triggers:
+- Dust
+- Pollen
+- Cold air
+- Exercise
+- Stress
+
+3. Symptoms:
+- Wheezing
+- Chest tightness
+- Coughing
+- Shortness of breath
+
+4. Treatment:
+- Short-acting beta agonists (SABA)
+- Inhaled corticosteroids
+- Long-acting bronchodilators
+- Avoiding triggers
+
+5. Emergency Indicators:
+- Inability to speak in full sentences
+- Blue lips or face
+- Peak flow < 50% of normal

@@ -1,13 +1,29 @@
-langchain
-langchain-openai
-langchain-core
-langchain-community
-faiss-cpu
-chromadb
-pypdf
-python-dotenv
-streamlit
-tavily-python
-langsmith
 
-#langchain langchain-openai langchain-community chromadb pypdf python-dotenv streamlit faiss-cpu
+
+langchain-openai 
+langchain-community 
+langchain-core 
+langchain-text-splitters 
+faiss-cpu 
+streamlit 
+python-dotenv 
+tavily-python
+
+# LangChain core packages (keep versions aligned)
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-openai==0.1.23
+langchain-text-splitters==0.2.4
+
+# Vector database
+faiss-cpu==1.8.0.post1
+
+# Frontend
+streamlit==1.38.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Web search tool
+tavily-python==0.5.0
+pytest==8.3.4
